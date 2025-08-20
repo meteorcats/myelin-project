@@ -1,0 +1,5 @@
+Created in the 70's, [[Unix]] was the foundation of the tech that we see today due to its capabilities. [[The GNU Project]] created a [[user-space]] inspired by Unix, which was basically a set of tools or organs but without the engine or brainstem to run it. That engine came around in the 90's, called the [[Linux kernel]]. These two were quickly combined to make the [[GNU/Linux]] that we know well today.
+
+Everything including Ubuntu, Mint, and Kali are [[distros]] made by devs who took the kernel and made their own customized [[user-space]] for it. ([[distros]] = [[Linux kernel]] + customized [[user-space]])
+
+[[GNU/Linux]] is [[FOSS]] which means that people can download, study, modify and release their own [[distros]] without [[proprietary restrictions]] or [[telemetry]], aka a strainer, which refers to code that restricts the use of code or sends data back to its dev. Due to the [[copyleft license]], this freedom is passed along to all subsequent users as well. This is the "glass box" model, while windows/mac are "black boxed" ([[closed-source]]) which means you can't freely download, modify or distribute your own versions of their kernel.
